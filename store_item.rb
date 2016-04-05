@@ -11,8 +11,8 @@ products = [
     price: 98.07
   },
   {
-    :name "snowshoe",
-    :model "Tundra",
+    :name =>"snowshoe",
+    :model =>"Tundra",
     :color => "green",
     :size => "small",
     :price => 12.09
@@ -25,3 +25,4 @@ products = [
     price: 23.00
   }
 ]
+ p products
