@@ -4,22 +4,22 @@
 #Be sure to use symbols for the keys. Try creating hashes using both types of hash symbol syntaxes. (Ruby syntax {:a => 123} vs. #JavaScript syntax {a: 123}).
 products = [
   {
-    name: "snowshoe"
-    model: "Alpine"
+    name: "snowshoe",
+    model: "Alpine",
     color: "red",
     size: "medium",
     price: 98.07
   },
   {
-    :name "snowshoe"
-    :model "Tundra"
+    :name "snowshoe",
+    :model "Tundra",
     :color => "green",
     :size => "small",
     :price => 12.09
   },
   {
-    name: "snowshoe"
-    model: "Lead-Filled"
+    name: "snowshoe",
+    model: "Lead-Filled",
     color: "blue",
     size: "X-Large",
     price: 23.00
