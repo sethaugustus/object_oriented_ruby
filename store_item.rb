@@ -28,5 +28,8 @@ products = [
 ]
 p products
 product1 = Product.new("snowshoe","Herbert", "green","small","12.09")
+puts product1.name
+puts product1.model
 puts product1.color
-p product1
+puts product1.size
+puts product1.price 
